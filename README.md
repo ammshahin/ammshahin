@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Image_Processing [Image_Processing](https://github.com/ammshahin/Image-Processing-ML)
 
-- 🌱 I’m currently learning **React,Django,Ml Algorithms**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on [Multi-vendor_E-Commerce_Project](https://github.com/ammshahin)
 
