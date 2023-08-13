@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is A M Mehrullah Shahin</h1>
-<h3 align="center">A passionate learner, Traveler and WEB & Machine Learning Enthusiast from Bangladesh</h3>
+<h3 align="center">Full Stack Engineer (Javascript)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammshahin&label=Profile%20views&color=0e75b6&style=flat" alt="ammshahin" /> </p>
 
